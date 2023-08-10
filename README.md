@@ -7,5 +7,4 @@ The fourth task in the course of web programming and natural language processing
 - Create a page PHP for the purpose of data
 
 
-  <->
-As seen in the file, icons and images for these tasks
+  
